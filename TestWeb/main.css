@@ -1,0 +1,49 @@
+.milkyWayProp{
+    width: 145px;
+    height: 145px;
+    
+}
+
+#satelliteProp{
+    width: 150px;
+    height: 150px;
+}
+
+.h1TopProp{
+    text-align: center;
+    padding-top: 25px;
+    font-size: 45px;
+    color:rgb(0, 0, 0);
+    text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.91);
+    font-family: 'Staatliches', cursive;
+
+}
+
+.bgImage{
+    background-image: url(Images/pexels-adrien-olichon-2387819.jpg);
+    background-size: cover;
+    height: 200px;
+}
+
+.rowSpace{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.h1BottomProp{
+    text-align: center;
+    padding-top: 25px;
+    font-size: 35px;
+    color:rgb(0, 0, 0);
+    text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.91);
+    font-family: 'Staatliches', cursive;
+}
+.bgRowTest{
+    background-color: #27283d;
+
+}
+.staatlichesFont{
+    font-family: 'Staatliches', cursive;
+}
+
+
